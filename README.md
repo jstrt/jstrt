@@ -66,15 +66,16 @@ To me, great development starts with listening — across cultures, across scree
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-| |
-|--|--|
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khan-github-jstrt&show_icons=true&theme=dark)
+
+
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: 
+- 📧 Email: a77281912@gmail.com
 - 🌐 Blog: 
 - 💼 LinkedIn:
