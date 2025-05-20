@@ -1,6 +1,15 @@
 # Hi, I'm Khan 👋
 
-**` Humanizer`**
+**` Humanizer (Developer / Creator)`**
+
+### AboutMe
+I'm a full-stack developer who deeply values collaboration and continuous improvement—and I bring a keen eye for small details that can make a big difference.
+
+I don’t just build things for people; I spend time with them, listen to what frustrates them, and work closely with others to explore and shape better solutions together.  
+That’s how I find the little gaps, the awkward steps, the parts that don’t quite feel right—and turn them into something smoother.
+
+To me, good development is less about flashy features and more about thoughtful improvements that quietly make life easier.  
+I'm driven by curiosity, real-world feedback, and the belief that small changes can have a big impact.
 
 
 ---
