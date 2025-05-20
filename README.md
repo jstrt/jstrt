@@ -11,6 +11,22 @@ That’s how I find the little gaps, the awkward steps, the parts that don’t q
 To me, good development is less about flashy features and more about thoughtful improvements that quietly make life easier.  
 I'm driven by curiosity, real-world feedback, and the belief that small changes can have a big impact.
 
+---
+## 🌍 A Developer Who Travels
+
+I’ve had the chance to explore different corners of the world — not just to visit, but to observe how people live, think, and interact with technology.
+
+🇷🇺 🇫🇷 🇮🇹 🇨🇭 🇨🇿 🇭🇺 🇵🇱 🇷🇴 🇦🇺 🇰🇭 🇹🇼
+
+Each place offered a new way of thinking. These experiences continue to shape how I build:  
+with empathy, simplicity, and an open mind.
+
+Whether I’m designing a user interface or simplifying a process, I always ask:  
+**“Would this feel intuitive to someone from a different background?”**
+
+To me, great development starts with listening — across cultures, across screens.
+
+
 
 ---
 
