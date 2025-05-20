@@ -1,6 +1,8 @@
 # Hi, I'm Khan 👋
 
-I'm a frontend developer 
+```
+ Humanizer
+```
 
 ---
 
