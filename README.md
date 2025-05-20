@@ -16,7 +16,19 @@ I'm driven by curiosity, real-world feedback, and the belief that small changes 
 
 I’ve had the chance to explore different corners of the world — not just to visit, but to observe how people live, think, and interact with technology.
 
-🇷🇺 🇫🇷 🇮🇹 🇨🇭 🇨🇿 🇭🇺 🇵🇱 🇷🇴 🇦🇺 🇰🇭 🇹🇼
+<p>
+  <img src="https://flagcdn.com/w40/ru.png" width="24" />
+  <img src="https://flagcdn.com/w40/fr.png" width="24" />
+  <img src="https://flagcdn.com/w40/it.png" width="24" />
+  <img src="https://flagcdn.com/w40/ch.png" width="24" />
+  <img src="https://flagcdn.com/w40/cz.png" width="24" />
+  <img src="https://flagcdn.com/w40/hu.png" width="24" />
+  <img src="https://flagcdn.com/w40/pl.png" width="24" />
+  <img src="https://flagcdn.com/w40/ro.png" width="24" />
+  <img src="https://flagcdn.com/w40/au.png" width="24" />
+  <img src="https://flagcdn.com/w40/kh.png" width="24" />
+  <img src="https://flagcdn.com/w40/tw.png" width="24" />
+</p>
 
 Each place offered a new way of thinking. These experiences continue to shape how I build:  
 with empathy, simplicity, and an open mind.
