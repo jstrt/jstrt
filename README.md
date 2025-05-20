@@ -68,7 +68,8 @@ To me, great development starts with listening — across cultures, across scree
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khan-github-jstrt&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jstrt&show_icons=true&theme=tokyonight)
+
 
 
 
